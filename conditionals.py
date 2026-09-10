@@ -35,3 +35,8 @@ else:
 
 status = "Adult" if age >= 18 else "Minor"
 print(f"User is an {status}")
+
+
+
+
+# this is the python program 
