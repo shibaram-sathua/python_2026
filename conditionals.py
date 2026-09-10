@@ -5,6 +5,7 @@ if marks >= 60 and marks <= 100:
 else:
     print("You have failed the exam")
 
+
 # indentation is not optional in python, it is mandatory to use indentaion in python. Indentation is used to define the block of code. In other programming languages, we use curly braces to define the block of code. In python, we use indentation to define the block of code.
 
 if marks >= 60:
